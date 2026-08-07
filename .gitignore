@@ -1,0 +1,3 @@
+*.log
+secret_file.txt
+*.bak
